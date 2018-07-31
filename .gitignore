@@ -1,0 +1,4 @@
+Django-blog/
+*.pyc
+*.db
+*.sqlite3
